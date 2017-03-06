@@ -7,7 +7,8 @@
 
 ._1AtfL {
   height: 100%;
-  position: relative; }
+  position: relative;
+  display: inline-block; }
   ._1AtfL img {
     height: 100%; }
 /*! normalize.css v5.0.0 | MIT License | github.com/necolas/normalize.css */
